@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import feedparser
 import ssl
 from html.parser import HTMLParser

@@ -271,7 +271,7 @@ print(feed.entries)
 
 
 
-# Save (commit) the changes
+# Save (commit) the changes +1
 
 #conn.commit()
 

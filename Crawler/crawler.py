@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #Crawler for Project Applied-Big-Data-Technologies
 #with daily Repository Upload at 20:15
-#log information Updated +5
+#log information Updated +6
 
 
 import feedparser
